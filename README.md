@@ -22,3 +22,11 @@ rm <fileName>
 rm -i <fileName>
 ```
 ---
+# How to File explorer is Not responding
+```
+pgrep nautilus
+```
+```
+kill <process-id>
+```
+---
