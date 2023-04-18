@@ -30,3 +30,6 @@ pgrep nautilus
 kill <process-id>
 ```
 ---
+# zoxide replace cd
+* https://webinstall.dev/zoxide/
+![zoxide](https://user-images.githubusercontent.com/127021921/232649969-a043db11-144f-4209-ac0b-8910295361f0.png)
