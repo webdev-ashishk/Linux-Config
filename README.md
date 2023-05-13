@@ -34,14 +34,32 @@ kill <process-id>
 * https://github.com/junegunn/fzf
 
 
-
-
-
-
-
-
-
 ---
 # zoxide replace cd
 * https://webinstall.dev/zoxide/
 ![zoxide](https://user-images.githubusercontent.com/127021921/232649969-a043db11-144f-4209-ac0b-8910295361f0.png)
+
+
+
+# Kitty config file
+```html
+map ctrl+c copy_to_clipboard
+map ctrl+v paste_from_clipboard 
+font_size 24.0
+map ctrl+minus change_font_size all -2.0
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
