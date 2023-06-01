@@ -51,7 +51,27 @@ map ctrl+minus change_font_size all -2.0
 
 ```
 
+# Installation Guide of tar.gz file on Ubuntu
+```
+1. tar -xzvf your_file.tar.gz
+2. cd extracted_directory
+3. Check for installation instructions: Look for a README or INSTALL file within the extracted directory. It may contain   specific instructions on how to proceed with the installation. Read and follow those instructions if available.
 
+4. Configure and compile (if needed): In some cases, you may need to configure and compile the source code. This step typically involves running the following commands in the extracted directory:
+./configure
+make
+Again, refer to any provided documentation for specific instructions.
+5. Install the software: Once the configuration and compilation steps (if applicable) are completed, use the following command to install the software:
+
+bash
+Copy code
+sudo make install
+You may be prompted to enter your password. Provide the necessary permissions for the installation to proceed.
+
+6.Verify the installation: After the installation process completes, you can verify if the software was installed successfully. Try running the software or use any provided verification steps mentioned in the documentation.
+
+It's important to note that the specific installation process may vary depending on the software package. Always refer to any provided documentation or installation instructions accompanying the .tar.gz file for the most accurate and specific instructions.
+```
 
 
 
