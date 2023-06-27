@@ -24,7 +24,7 @@ rm -i <fileName>
 ---
 # How to File explorer is Not responding
 ```
-pgrep nautilus
+killall nautilus
 ```
 ```
 kill <process-id>
