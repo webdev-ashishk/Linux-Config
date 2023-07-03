@@ -1,0 +1,26 @@
+sudo dpkg -i <path of your .deb file!>
+
+
+
+
+Nala apt Frontend for Linux
+
+How to use Nala ?
+
+How to install softare using Nala====>
+
+sudo nala install [package-name]
+
+Remove Packages
+
+Uninstall packages with the remove command.
+
+sudo nala remove [package-name]
+
+
+Update Packages
+Refresh the package listings for the repositories on your system with the update command.
+
+sudo nala update
+
+
