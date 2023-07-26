@@ -1,3 +1,13 @@
+# Changing Cursor 
+```
+https://www.gnome-look.org/p/1197198
+```
+> 1. Goto Home open .icons file || if not present then create
+> 2. Paste entire file like below
+![icon](https://github.com/webdev-ashishk/Linux-config/assets/127021921/5c968593-3f92-407f-a24c-1550469f8d56)
+
+
+---
 # How to make fish as default shell
 ```
  chsh -s /usr/bin/fish
