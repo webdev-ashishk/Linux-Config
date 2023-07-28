@@ -10,3 +10,8 @@ sudo snap install tube2go
 ```
 sudo snap install gimp
 ```
+#### 3. 4K Videos Player
+> MPV Media Player
+```
+sudo apt install mpv -y
+```
