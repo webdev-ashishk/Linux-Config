@@ -1,3 +1,8 @@
+# Installing Tweaks to Modifing you theme
+```
+sudo apt install gnome-tweaks
+```
+---
 # Theme Customization in Ubuntu 
 ```
 https://github.com/vinceliuice/Mojave-gtk-theme
