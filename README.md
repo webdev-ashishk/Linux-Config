@@ -1,3 +1,17 @@
+# Theme Customization in Ubuntu 
+```
+https://github.com/vinceliuice/Mojave-gtk-theme
+```
+```
+https://github.com/vinceliuice/Mojave-gtk-theme
+```
+> 1. git clone <URL>
+> 2. cd <URL-FileName>
+> 3. ./install.sh
+
+
+
+---
 # Cursor Customization
 ```
 https://www.gnome-look.org/p/1197198
