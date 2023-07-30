@@ -14,6 +14,7 @@ https://github.com/vinceliuice/Mojave-gtk-theme
 > 2. cd <URL-FileName>
 > 3. ./install.sh
 
+![theme2](https://github.com/webdev-ashishk/Linux-config/assets/127021921/518b5164-2f84-439b-9479-9aee540f8247)
 
 
 ---
