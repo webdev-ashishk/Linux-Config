@@ -56,8 +56,9 @@ sudo apt-get install -y gnome-sushi
 ```
 # Delete the Selected file permanetly 
 > Wipe option added in Your right click option
-![Screenshot from 2023-07-31 22-44-49](https://github.com/webdev-ashishk/Linux-Config/assets/127021921/79219735-38c2-40ba-bd09-04c5cadd9e56)
-
-```
+> ```
 sudo apt-get install -y nautilus-wipe
 ```
+![Screenshot from 2023-07-31 22-44-49](https://github.com/webdev-ashishk/Linux-Config/assets/127021921/79219735-38c2-40ba-bd09-04c5cadd9e56)
+
+
