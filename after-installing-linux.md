@@ -50,4 +50,14 @@ sudo apt-get install numix-gtk-theme numix-icon-theme-circle
 > sudo apt install bleachbit
 ---
 # Installing File preview 
-> select the file and press space button 
+> select the file and press space button
+```
+sudo apt-get install -y gnome-sushi
+```
+# Delete the Selected file permanetly 
+> Wipe option added in Your right click option
+![Screenshot from 2023-07-31 22-44-49](https://github.com/webdev-ashishk/Linux-Config/assets/127021921/79219735-38c2-40ba-bd09-04c5cadd9e56)
+
+```
+sudo apt-get install -y nautilus-wipe
+```
