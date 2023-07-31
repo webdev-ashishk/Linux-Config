@@ -48,3 +48,6 @@ sudo apt-get install numix-gtk-theme numix-icon-theme-circle
 
 # Bleachbit:
 > sudo apt install bleachbit
+---
+# Installing File preview 
+> select the file and press space button 
