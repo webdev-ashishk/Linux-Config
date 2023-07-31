@@ -19,8 +19,9 @@
 > gsettings set org.gnome.desktop.interface show-battery-percentage true
 # Improve Laptop Battery:
 >  https://github.com/AdnanHodzic/auto-cpufreq#installing-auto-cpufreq
->  sudo snap install auto-cpufreq
-
+ ```
+  sudo snap install auto-cpufreq
+```
 # Firefox Tweaks:
 > 1. about:config
 > 2. layers.acceleration.force-enabled
