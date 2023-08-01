@@ -1,9 +1,11 @@
+
+  
   # Setup Like Mac Os
 ![setup-like-mac](https://github.com/webdev-ashishk/Linux-Config/assets/127021921/e10fa8d1-0cd8-482d-b66f-b811f29d87ec)
 
 # Follow this Videos
 ```
-https://youtu.be/hQDhTIX4k7s
+https://youtu.be/EMrNBMCaQFA
 ```
 
 ----------
