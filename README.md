@@ -2,6 +2,7 @@
 ```
 sudo apt install gnome-shell-extension-manager
 ```
+---
 # all installed extensions
 ![installed-extensions](https://github.com/webdev-ashishk/Linux-Config/assets/127021921/d30a6a51-6446-4749-bf8a-3960d5b98a7b)
 
