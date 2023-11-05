@@ -129,6 +129,28 @@ You may be prompted to enter your password. Provide the necessary permissions fo
 It's important to note that the specific installation process may vary depending on the software package. Always refer to any provided documentation or installation instructions accompanying the .tar.gz file for the most accurate and specific instructions.
 ```
 
+# How we can Make shorter code
+> 1. Goto bashrc file
+   ```
+  code ~/.bashrc
+```
+ * alias code='flatpak run com.visualstudio.code'
+ * alias codei="code-insider"
+ * alias dev="npm run dev"
+  * alias c="clear"
+
+> 2.  Goto fish configure file
+     ```
+    code ~/.config/fish/config.fish
+    ```
+
+* alias dev="npm run dev"
+* alias c="clear"
+
+* Define the "ci" function
+function codei
+    code-insiders $argv
+end
 
 
 
