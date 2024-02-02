@@ -154,6 +154,10 @@ function codei
 end
 
 
+# KeyBinding and Shortcut
+### close tab - > ctrl+x
+![keybinding](https://github.com/webdev-ashishk/Linux-Config/assets/127021921/43e319d8-1095-4a22-8ec0-6788a47fe439)
+
 
 
 
