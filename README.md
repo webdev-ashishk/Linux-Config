@@ -9,7 +9,7 @@ sudo apt install gnome-shell-extension-manager
 ![image](https://github.com/webdev-ashishk/Linux-Config/assets/127021921/39096b55-ce08-420f-99c9-a8357e3a6286)
 
 
-
+#12 
 
 
 
