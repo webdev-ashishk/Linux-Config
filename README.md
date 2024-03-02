@@ -8,6 +8,8 @@ sudo apt install gnome-shell-extension-manager
 
 ![image](https://github.com/webdev-ashishk/Linux-Config/assets/127021921/39096b55-ce08-420f-99c9-a8357e3a6286)
 
+# 22 thing do after installing ubuntu 22.04
+![Uploading image.png…]()
 
 # 15 things do after installing ubundu 22.04
 ![image](https://github.com/webdev-ashishk/Linux-Config/assets/127021921/d6a1ef57-be68-4079-bebb-f5e31944dbae)
