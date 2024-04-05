@@ -10,7 +10,7 @@ sudo apt install gnome-shell-extension-manager
 
 # 22 thing do after installing ubuntu 22.04
 ![22-things-do-after-installing-linux](https://github.com/webdev-ashishk/Linux-Config/assets/127021921/53c8f37c-7a4b-46f4-a2e6-04190ddb6d9e)
-
+> 19. This will stop showing what message like " this infomation you want to send or not " 
 
 # 15 things do after installing ubundu 22.04
 ![image](https://github.com/webdev-ashishk/Linux-Config/assets/127021921/d6a1ef57-be68-4079-bebb-f5e31944dbae)
