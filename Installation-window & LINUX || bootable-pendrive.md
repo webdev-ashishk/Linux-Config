@@ -3,7 +3,7 @@
 2. formate pendrive in fat32 format
    > WHY YOU SHOULD FORMATE IN FAT32 FORMAT ??
    > Because fat32 identify both UEFI & Legacy mode
-### Select your pendrive based on Partition
+### Select your pendrive based on Partition at boot Time !
   > If your partition is GPT then select UEFI mode option .
   > If your partition is MBR then select lagacy mode option . 
  
